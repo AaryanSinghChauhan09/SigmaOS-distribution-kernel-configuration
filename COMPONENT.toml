@@ -3,7 +3,7 @@ name = "SigmaOS-distribution-kernel-configuration"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "distribution-kernel-configuration component"
+description = "Distribution Kernel Configuration"
 upstream = []
 
 [contract]
